@@ -1,4 +1,4 @@
-[data structure course](https://www.youtube.com/watch?v=RBSGKlAvoiM
+[data structure course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 [https://docs.microsoft.com/en-us/azure/architecture/patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns)
 
